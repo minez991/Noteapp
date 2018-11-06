@@ -1,2 +1,8 @@
-%h1= t('.title')
-%p= t('.welcome')
+%html
+  %head
+    %title Depot
+%body
+  = render 'shared/header'
+  %h1= t('.title')
+  %p= t('.welcome')
+  = render 'shared/footer'
