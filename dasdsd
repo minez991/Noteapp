@@ -1,0 +1,59 @@
+[33mcommit fc3b69206a79b274786c3cb8013fc71c4a7bb464[m
+Author: peter <wf00093@surrey.ac.uk>
+Date:   Tue Nov 6 16:32:25 2018 +0000
+
+    Revert "email added"
+    
+    This reverts commit 229d2612a65174b6daa3e06681c4b54660d33b21.
+    
+    Email not working
+    229d2612a65174b6daa3e06681c4b54660d33111111bsdasd
+    11
+
+[33mcommit 229d2612a65174b6daa3e06681c4b54660d33b21[m
+Author: peter <wf00093@surrey.ac.uk>
+Date:   Tue Nov 6 15:57:15 2018 +0000
+
+    email added
+
+[33mcommit 28e584f6f69cbb87d0155718d9e3eb7d50337c41[m
+Author: peter <wf00093@surrey.ac.uk>
+Date:   Tue Nov 6 15:43:47 2018 +0000
+
+    Added contact form
+
+[33mcommit 1a563730106686b18f6547f3bfd910790c92898d[m
+Author: peter <wf00093@surrey.ac.uk>
+Date:   Tue Nov 6 15:37:58 2018 +0000
+
+    added contact page and form
+
+[33mcommit 297cc243bb1936a425f102a13ebdd042caeba1d8[m
+Author: peter <wf00093@surrey.ac.uk>
+Date:   Tue Nov 6 15:01:57 2018 +0000
+
+    added header and footer
+
+[33mcommit be0ff44cf833844430b8f697b3f1d25ca0f12ab1[m
+Author: peter <wf00093@surrey.ac.uk>
+Date:   Tue Nov 6 14:34:40 2018 +0000
+
+    added testing
+
+[33mcommit 85a7691aed994e823f2beedab6ff44a6f5cc531e[m
+Author: peter <wf00093@surrey.ac.uk>
+Date:   Tue Nov 6 14:27:55 2018 +0000
+
+    Made is Sassy
+
+[33mcommit 3e34204aad174f3bca2ce5fe7fbe731ff3ed5455[m
+Author: peter <wf00093@surrey.ac.uk>
+Date:   Tue Nov 6 14:24:01 2018 +0000
+
+    blank home page
+
+[33mcommit 4f2672149a1f7ac5452a00f754797002c321b76c[m
+Author: peter <wf00093@surrey.ac.uk>
+Date:   Tue Nov 6 14:03:50 2018 +0000
+
+    template application

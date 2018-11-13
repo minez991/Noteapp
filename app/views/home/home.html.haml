@@ -2,7 +2,8 @@
   %head
     %title Depot
 %body
-  = render 'shared/header'
+
   %h1= t('.title')
   %p= t('.welcome')
-  = render 'shared/footer'
+  =link_to('Contact us',"/contact")
+  =link_to('View Database',"/notes")
